@@ -21,8 +21,8 @@ Discussion material:
 [William Kentridge, How We Make Sense of the World. Lousiana Museum of Modern Art 2014](https://www.youtube.com/watch?v=G11wOmxoJ6U)
 
 
-..* “The Reel Thing”. Wired Magazine, May 2020.
-..* Fluser, Vilém. Into the Universe of Technical Images. 1985. "To Abstract".
+* “The Reel Thing”. Wired Magazine, May 2020.
+* Fluser, Vilém. Into the Universe of Technical Images. 1985. "To Abstract".
 
 
 ### Week 4 - Frame by frame
