@@ -8,18 +8,17 @@ The purpose of this course is to explore the possibilities of integrating analog
 
 ### Week 1 — Introduction
 
-Discussion about analog technology today. Revival trends and reasons behind them. Differences between analog and digital.
+Discussion about analog technology today. Goals of the semester, introduction of the students. Overview of the Crass system and the room.
 
 ### Week 2 — Frame by frame
 
 Stop motion and animation table. Differences between the two approaches, possibilities and limitations.
 
-Overview of the Crass system.
+Overview of the Crass system. And organization of the room.
 
 Discussion material:
 
-William Kentridge. 
-<a href="https://www.youtube.com/watch?v=G11wOmxoJ6U" target="_blank"></a>
+[William Kentridge](https://www.youtube.com/watch?v=G11wOmxoJ6U)
 
 
 “The Reel Thing”. Wired Magazine, May 2020.
