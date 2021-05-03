@@ -31,9 +31,10 @@ Analog motion graphics. Graphics and text in animation.
 
 Continuation of the overview of the Crass system and explanation about different kinds of film.
 
-Reading material: 
+Discussion material: 
 
-Doug Aitken: Broken Screen: Conversations with Doug Aitken, Expanding the Image Breaking the Narrative. Conversation with Pablo Ferro.
+* Doug Aitken: Broken Screen: Conversations with Doug Aitken, Expanding the Image Breaking the Narrative. Conversation with Pablo Ferro.
+* Fluser, Vilém. Into the Universe of Technical Images. 1985. "To Imagine", "To Make Concrete", "To Touch".
 
 ### Week 5 - Analogue practice: Experiments
 
